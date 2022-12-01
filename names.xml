@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.1" class="java.beans.XMLDecoder">
+ <string>Zulu</string>
+ <string>Yankee</string>
+ <string>X-ray</string>
+ <string>Whiskey</string>
+ <string>Victor</string>
+ <string>Uniform</string>
+ <string>Tango</string>
+ <string>Sierra</string>
+ <string>Romeo</string>
+ <string>Quebec</string>
+ <string>Papa</string>
+ <string>Oscar</string>
+ <string>November</string>
+ <string>Mike</string>
+ <string>Lima</string>
+ <string>Kilo</string>
+ <string>Juliet</string>
+ <string>India</string>
+ <string>Hotel</string>
+ <string>Golf</string>
+ <string>Foxtrot</string>
+ <string>Echo</string>
+ <string>Delta</string>
+ <string>Charlie</string>
+ <string>Bravo</string>
+ <string>Alpha</string>
+</java>
